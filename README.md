@@ -22,4 +22,6 @@ Welth is an intelligent financial management tool that helps you track income an
 - **Gemini AI** – AI-powered analytics and smart insights.
 - **Prisma** – Database ORM for efficient data handling.
 - **Shadcn UI** – Elegant and modern UI components.
+- **Containerization**: Docker
+- **Deployment**: Vercel
 
