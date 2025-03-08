@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welth - AI-Powered Expense & Budget Tracker
 
-## Getting Started
+## 🚀 Overview
 
-First, run the development server:
+Welth is an intelligent financial management tool that helps you track income and expenses across multiple accounts. With AI-powered features like smart categorization, receipt scanning, and automated insights, Welth ensures that you stay on top of your finances with ease.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🌟 Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **💡 Advanced Analytics** – Gain deep insights into your spending patterns with AI-powered analytics.
+- **🧾 Smart Receipt Scanner** – Automatically extract data from receipts using advanced AI technology.
+- **📊 Budget Planning** – Create and manage budgets with intelligent recommendations.
+- **🏦 Multi-Account Support** – Manage multiple bank accounts and credit cards in one place.
+- **💱 Multi-Currency Support** – Track expenses in different currencies with real-time conversion.
+- **📩 Recurring Transactions & Email Reports** – Receive automated emails summarizing your budget, along with AI-powered monthly reports featuring interactive charts and personalized spending insights.
+- **🤖 Automated Insights** – Get real-time financial recommendations and AI-driven budget summaries.
+- **📈 Interactive Visualizations** – View your spending trends with engaging charts and data visualizations.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🔥 Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Next.js** – Server-side rendered and optimized for performance.
+- **Tailwind CSS** – Modern, responsive, and highly customizable UI.
+- **Gemini AI** – AI-powered analytics and smart insights.
+- **Prisma** – Database ORM for efficient data handling.
+- **Shadcn UI** – Elegant and modern UI components.
